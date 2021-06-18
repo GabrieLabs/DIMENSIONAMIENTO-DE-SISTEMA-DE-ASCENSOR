@@ -43,3 +43,16 @@ Claudia Segovia: 40
 Se entregará un informe y el apoyo para cálculo de demostrando la solución, junto con un informe con la solución determinada.
 
 Se premiará la eficiencia(el uso medido de Recursos) y las consideraciones adicionales que UD crea conveniente
+
+
+
+NORMAS COVENIN 621-3 al -5
+
+http://www.sencamer.gob.ve/sencamer/normas/621-3-97.pdf
+
+http://www.sencamer.gob.ve/sencamer/normas/621-4-95.pdf
+
+http://www.sencamer.gob.ve/sencamer/normas/621-5-94.pdf
+
+https://drive.google.com/file/d/1Tla3CElJhLxGjZE5WuV74xo39SRkPK7P/view
+
