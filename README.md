@@ -20,6 +20,7 @@ El número de piso viene dado por:
 Edicaciones pisos>=30, hoteles
 Edificaciones pisos<30, edificios residenciales 
 
+
 Jose Daniel: 15
 Andrés Giolitti: 30
 Enmanuel Torres: 45
@@ -32,6 +33,7 @@ Eduardo Lunar: 40
 David Martínez: 20
 Albert Nuñez:  18
 Claudia Segovia: 40
+
 
 
 -Pisos de área de ocupación de 750m2
