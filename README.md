@@ -21,18 +21,6 @@ Edicaciones pisos>=30, hoteles
 Edificaciones pisos<30, edificios residenciales 
 
 
-Jose Daniel: 15
-Andrés Giolitti: 30
-Enmanuel Torres: 45
-Gabriel Camejo: 80
-Anthony Cuadros: 85
-Clara Severino: 25
-María Quiróz: 55
-Wilfredo Petit: 50
-Eduardo Lunar: 40
-David Martínez: 20
-Albert Nuñez:  18
-Claudia Segovia: 40
 
 
 
